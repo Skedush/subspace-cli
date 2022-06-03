@@ -10,7 +10,7 @@ git clone https://github.com/Skedush/subspace-cli.git
 cd subspace-cli
 ```
 
-修改 node 中的节点名称，节点名称就是在https://telemetry.subspace.network/中显示的名称
+修改 node 中的节点名称，节点名称就是在https://telemetry.subspace.network/ 中显示的名称
 
 ```
 vi node.sh
