@@ -22,6 +22,7 @@ vi node.sh
 vi farmer.sh
 ```
 
+运行node与farmer节点
 ```
 chmod +x run.sh && ./run.sh
 ```
