@@ -9,5 +9,5 @@ nohup ./node \
   --pruning 1024 \
   --keep-blocks 1024 \
   --validator \
-  --name INSERT_YOUR_ID \
+  --name !dd_ \
   > node.log 2>&1 &
